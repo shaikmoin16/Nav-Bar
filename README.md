@@ -1,4 +1,7 @@
 # Nav-Bar
+
+
+
 *****  A simple responsive navigation bar using html,css (major) and javascript  ******
 
 
